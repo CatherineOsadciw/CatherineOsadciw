@@ -1,19 +1,19 @@
 #  <img src="./assets/lightsaber.png" width="20px"> Hello there!
 
-I'm Catherine!  I am currently an Azure DevOps software engineer at  <img src="./assets/github.png" width="20px">.  I usually focus on backend development, but have worked across the stack.
-
-Graduate of <img src="./assets/rit.png" width="20px"> with a B.S. in Software Engineering.
-
-Proud native of <img src="./assets/roc.jpg" width="20px">
+I'm Catherine!  I am currently an Azure DevOps software engineer at  <img src="./assets/github.png" width="20px">.  I usually call myself a backend developer, but I have experience across the stack.
 
 ##  <img src="./assets/baby-yoda.gif" width="20px"> Get to Know Me
-- Disney Parks <img src="./assets/cinderella.gif" width="20px"> 
+- Graduate of <img src="./assets/rit.png" width="20px"> with a B.S. in Software Engineering
 
-- Trying lots of coffee! <img src="./assets/coffee-grinder.jpg" width="15px"> 
+- Proud native of <img src="./assets/roc.jpg" width="20px">
 
-- Taking care of my plants <img src="./assets/succulent.png" width="20px"> 
+- Loves Disney Parks <img src="./assets/cinderella.gif" width="20px"> 
 
-- Collecting vintage clothes <img src="./assets/black-dress-2.png" width="20px"> 
+- Always drinking lots of coffee! <img src="./assets/coffee-grinder.jpg" width="15px"> 
+
+- Plant mom <img src="./assets/succulent.png" width="20px"> 
+
+- Collects vintage clothes <img src="./assets/black-dress-2.png" width="20px"> 
 
 - Unironically loves Clippy <img src="./assets/clippy.png" width="20px"> 
 
