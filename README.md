@@ -35,17 +35,17 @@ I'm Catherine!  I am currently an Azure DevOps software engineer at  <img src=".
 
 ## <img src="./assets/rolling-bb8.gif" width="20px"> Tech and Tools 
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=Microsoft&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=75edb2)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=75edb2)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=Microsoft&logoColor=white&color=75edb2)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=75edb2)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=75edb2)
 
-![](https://img.shields.io/badge/Tools-VS-informational?style=flat&logo=Visual-Studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-AzureDevOps-informational?style=flat&logo=Azure-DevOps&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-VS-informational?style=flat&logo=Visual-Studio&logoColor=white&color=c576c3)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=c576c3)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=c576c3)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=c576c3)
+![](https://img.shields.io/badge/Tools-AzureDevOps-informational?style=flat&logo=Azure-DevOps&logoColor=white&color=c576c3)
 
 ##  <img src="./assets/porg.png" width="20px"> GitHub Stats
 
