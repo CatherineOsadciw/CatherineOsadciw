@@ -1,4 +1,19 @@
-#  <img src="./assets/lightsaber.png" width="20px"> Hello there!
+
+<div class="hello">
+    <h1 align="center">Hello there! <img src="./assets/lightsaber.png" width="20px"></h1> 
+</div>
+
+<p class="socials" align="center">
+    <a href="https://www.linkedin.com/in/catherine-osadciw-a65517128/">
+        <img src="./assets/linkedin.png" width="30px">
+    </a>
+    <a href="https://twitter.com/cathosadciw">
+        <img src="./assets/twitter.png" width="30px">
+    </a>
+    <a href="mailto:CatherineOsadciw@github.com">
+        <img src="./assets/gmail.png" width="30px">
+    </a>
+</p>
 
 I'm Catherine!  I am currently an Azure DevOps software engineer at  <img src="./assets/github.png" width="20px">.  I usually call myself a backend developer, but I have experience across the stack.
 
