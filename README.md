@@ -5,35 +5,35 @@
 
 <p class="socials" align="center">
     <a href="https://www.linkedin.com/in/catherine-osadciw-a65517128/">
-        <img src="./assets/linkedin.png" width="30px">
+        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/linkedin.png" width="30px">
     </a>
     <a href="https://twitter.com/cathosadciw">
-        <img src="./assets/twitter.png" width="30px">
+        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/twitter.png" width="30px">
     </a>
     <a href="mailto:CatherineOsadciw@github.com">
-        <img src="./assets/gmail.png" width="30px">
+        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/gmail.png" width="30px">
     </a>
 </p>
 
-I'm Catherine!  I am currently an Azure DevOps software engineer at  <img src="./assets/github.png" width="20px">.  I usually call myself a backend developer, but I have experience across the stack.
+I'm Catherine!  I am currently an Azure DevOps software engineer at  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/github.png" width="20px">.  I usually call myself a backend developer, but I have experience across the stack.
 
-##  <img src="./assets/baby-yoda.gif" width="20px"> Get to Know Me
-- Graduate of <img src="./assets/rit.png" width="20px"> with a B.S. in Software Engineering
+##  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/baby-yoda.gif" width="20px"> Get to Know Me
+- Graduate of <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/rit.png" width="20px"> with a B.S. in Software Engineering
 
-- Proud native of <img src="./assets/roc.jpg" width="20px">
+- Proud native of <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/roc.jpg" width="20px">
 
-- Loves Disney Parks <img src="./assets/cinderella.gif" width="20px"> 
+- Loves Disney Parks <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/cinderella.gif" width="20px"> 
 
-- Always drinking lots of coffee! <img src="./assets/coffee-grinder.jpg" width="15px"> 
+- Always drinking lots of coffee! <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/coffee-grinder.jpg" width="15px"> 
 
-- Plant mom <img src="./assets/succulent.png" width="20px"> 
+- Plant mom <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/succulent.png" width="20px"> 
 
-- Collects vintage clothes <img src="./assets/black-dress-2.png" width="20px"> 
+- Collects vintage clothes <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/black-dress-2.png" width="20px"> 
 
-- Unironically loves Clippy <img src="./assets/clippy.png" width="20px"> 
+- Unironically loves Clippy <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/clippy.png" width="20px"> 
 
 
-## <img src="./assets/rolling-bb8.gif" width="20px"> Tech and Tools 
+## <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/rolling-bb8.gif" width="20px"> Tech and Tools 
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=75edb2)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=75edb2)
@@ -47,10 +47,10 @@ I'm Catherine!  I am currently an Azure DevOps software engineer at  <img src=".
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=c576c3)
 ![](https://img.shields.io/badge/Tools-AzureDevOps-informational?style=flat&logo=Azure-DevOps&logoColor=white&color=c576c3)
 
-## <img src="./assets/party_chewbacca.gif" width="20px"> Currently Coding To...
+## <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/party_chewbacca.gif" width="20px"> Currently Coding To...
 [![Spotify](https://CatherineOsadciw.vercel.app/api/spotify)](https://open.spotify.com/user/dex5b3m3iwj04wtr8zsfzhatl)
 
-##  <img src="./assets/porg.png" width="20px"> GitHub Stats
+##  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/porg.png" width="20px"> GitHub Stats
 
 [![CatherineOsadciw's github stats](https://github-readme-stats.vercel.app/api?username=CatherineOsadciw&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/CatherineOsadciw/github-readme-stats)
 
