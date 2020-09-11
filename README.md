@@ -48,7 +48,7 @@ I'm Catherine!  I am currently an Azure DevOps software engineer at  <img src="h
 ![](https://img.shields.io/badge/Tools-AzureDevOps-informational?style=flat&logo=Azure-DevOps&logoColor=white&color=c576c3)
 
 ## <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/party_chewbacca.gif" width="20px"> Currently Coding To...
-[![Spotify](https://CatherineOsadciw.vercel.app/api/spotify)](https://open.spotify.com/user/dex5b3m3iwj04wtr8zsfzhatl)
+[![Spotify](https://spotify-nu.vercel.app/api/spotify)](https://open.spotify.com/user/dex5b3m3iwj04wtr8zsfzhatl)
 
 ##  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/porg.png" width="20px"> GitHub Stats
 
