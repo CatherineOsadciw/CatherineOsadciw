@@ -1,4 +1,4 @@
-![Header Image](./assets/header.jpg)
+![Header Image](https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/header.jpg)
 
 <div class="hello">
     <h1 align="center">Hello there! <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/lightsaber.png" width="20px"></h1> 
