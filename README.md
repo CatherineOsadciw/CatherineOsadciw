@@ -1,7 +1,7 @@
 ![Header Image](https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/newheader.png)
 
 <div align="center">
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=CatherineOsadciw.CatherineOsadciw)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CatherineOsadciw.CatherineOsadciw)
 </div>
 
 <p class="socials" align="center">
