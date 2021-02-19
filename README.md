@@ -14,18 +14,16 @@
 
 I'm Catherine!  I am currently a software engineer at  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/github-fill.png" width="20px"> working on the Azure DevOps platform.  I usually call myself a backend developer, but I have experience across the stack.
 
-##  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/baby-yoda.gif" width="20px"> Get to Know Me
-- Graduate of <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/rit.png" width="20px"> with a B.S. in Software Engineering
+##  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/lightsaber.png" width="20px"> Get to Know Me
+- Graduate of <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/rit-new.png" width="20px"> with a B.S. in Software Engineering
 
-- Proud native of <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/roc.jpg" width="20px">
+- Rochester, NY <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/rochester-new.png" width="20px"> -> Orlando, FL 🦢
 
 - Loves Disney Parks <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/cinderella.gif" width="20px"> 
 
 - Always drinking lots of coffee! <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/coffee-grinder.jpg" width="15px"> 
 
 - Plant mom <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/succulent.png" width="20px"> 
-
-- Collects vintage clothes <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/black-dress-2.png" width="20px"> 
 
 - Unironically loves Clippy <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/clippy.png" width="20px"> 
 
