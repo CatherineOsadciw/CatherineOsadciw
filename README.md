@@ -1,5 +1,9 @@
 ![Header Image](https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/newheader.png)
 
+<div align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=CatherineOsadciw.CatherineOsadciw" alt="visitors badge"/>
+</div>
+
 <p class="socials" align="center">
     <a href="https://www.linkedin.com/in/catherine-osadciw-a65517128/">
         <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/linkedin-box-fill.png" width="30px" padding="10px">
@@ -49,7 +53,6 @@ I'm Catherine!  I am currently a software engineer at  <img src="https://github.
 
 [![CatherineOsadciw's github stats](https://github-readme-stats.vercel.app/api?username=CatherineOsadciw&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/CatherineOsadciw/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CatherineOsadciw.CatherineOsadciw)
 
 <!--
 **CatherineOsadciw/CatherineOsadciw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
