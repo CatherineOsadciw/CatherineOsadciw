@@ -1,5 +1,9 @@
 ![Header Image](https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/newheader.png)
 
+<div align="center">
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=CatherineOsadciw.CatherineOsadciw)
+</div>
+
 <p class="socials" align="center">
     <a href="https://www.linkedin.com/in/catherine-osadciw-a65517128/">
         <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/linkedin-box-fill.png" width="30px" padding="10px">
@@ -19,7 +23,7 @@ I'm Catherine!  I am currently a software engineer at  <img src="https://github.
 
 - Rochester, NY <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/rochester-new.png" width="20px"> -> Orlando, FL 🦢
 
-- Plant mom <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/plant-fill.png" width="20px"> 
+- Plant mom <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/plant-line.png" width="20px"> 
 
 - Loves Disney Parks <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/cinderella.gif" width="20px"> 
 
@@ -48,8 +52,6 @@ I'm Catherine!  I am currently a software engineer at  <img src="https://github.
 ##  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/porg.png" width="20px"> GitHub Stats
 
 [![CatherineOsadciw's github stats](https://github-readme-stats.vercel.app/api?username=CatherineOsadciw&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/CatherineOsadciw/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatherineOsadciw&count_private=true&theme=cobalt)](https://github.com/CatherineOsadciw/github-readme-stats)
 
 <!--
 **CatherineOsadciw/CatherineOsadciw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
