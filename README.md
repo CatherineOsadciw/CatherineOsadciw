@@ -21,12 +21,14 @@ I'm Catherine!  I am currently a software engineer at  <img src="https://github.
 - Graduate of <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/rit-new.png" width="20px"> with a B.S. in Software Engineering
 
 - Rochester, NY <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/rochester-new.png" width="20px"> -> Orlando, FL 🦢
+  
+- Software documentation junkie (my manager's words, not mine) <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/draft-line.png" width="20px"> 
 
-- Plant mom <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/plant-line.png" width="20px"> 
+- Always drinking coffee <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/cup-fill.png" width="20x"> 
 
 - Loves Disney Parks <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/cinderella.gif" width="20px"> 
 
-- Always drinking coffee <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/cup-fill.png" width="20x"> 
+- Plant mom <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/plant-line.png" width="20px"> 
 
 - Unironically loves Clippy <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/clippy.png" width="20px"> 
 
