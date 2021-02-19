@@ -1,9 +1,5 @@
 ![Header Image](https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/newheader.png)
 
-<div align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=CatherineOsadciw.CatherineOsadciw" alt="visitors badge"/>
-</div>
-
 <p class="socials" align="center">
     <a href="https://www.linkedin.com/in/catherine-osadciw-a65517128/">
         <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/linkedin-box-fill.png" width="30px" padding="10px">
@@ -13,6 +9,9 @@
     </a>
     <a href="mailto:CatherineOsadciw@github.com">
         <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/mail-fill.png" width="30px" padding="10px">
+    </a>
+    <a>
+        <img src="https://visitor-badge.glitch.me/badge?page_id=CatherineOsadciw.CatherineOsadciw" alt="visitors badge" padding="10px"/>
     </a>
 </p>
 
