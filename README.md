@@ -19,11 +19,11 @@ I'm Catherine!  I am currently a software engineer at  <img src="https://github.
 
 - Rochester, NY <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/rochester-new.png" width="20px"> -> Orlando, FL 🦢
 
+- Plant mom <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/plant-fill.png" width="20px"> 
+
 - Loves Disney Parks <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/cinderella.gif" width="20px"> 
 
-- Always drinking lots of coffee! <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/cup-fill.png" width="20x"> 
-
-- Plant mom <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/plant-fill.png" width="20px"> 
+- Always drinking coffee <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/cup-fill.png" width="20x"> 
 
 - Unironically loves Clippy <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/clippy.png" width="20px"> 
 
