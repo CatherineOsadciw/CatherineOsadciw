@@ -11,7 +11,7 @@
         <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/mail-fill.png" width="30px" padding="10px">
     </a>
     <a>
-        <img src="https://visitor-badge.glitch.me/badge?page_id=CatherineOsadciw.CatherineOsadciw" alt="visitors badge" padding="0px 10px 10px 10px"/>
+        <img src="https://visitor-badge.glitch.me/badge?page_id=CatherineOsadciw.CatherineOsadciw" alt="visitors badge" padding="10px 10px 0px 10px"/>
     </a>
 </p>
 
