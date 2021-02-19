@@ -21,9 +21,9 @@ I'm Catherine!  I am currently a software engineer at  <img src="https://github.
 
 - Loves Disney Parks <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/cinderella.gif" width="20px"> 
 
-- Always drinking lots of coffee! <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/coffee-grinder.jpg" width="15px"> 
+- Always drinking lots of coffee! <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/cup-fill.png" width="20x"> 
 
-- Plant mom <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/succulent.png" width="20px"> 
+- Plant mom <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/plant-fill.png" width="20px"> 
 
 - Unironically loves Clippy <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/clippy.png" width="20px"> 
 
