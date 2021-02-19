@@ -1,0 +1,18 @@
+# Workflow to update my recent GitHub activity in public repos
+
+name: github-activity
+on:
+  schedule:
+    - cron: '0 2 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update README with my most recent GitHub activity in public repos
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Updating recent public GitHub activity'
+          MAX_LINES: 5
