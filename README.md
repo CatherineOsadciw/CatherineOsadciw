@@ -1,18 +1,14 @@
-![Header Image](https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/vote_octocat.gif)
-
-<div class="hello">
-    <h1 align="center">Hello there! <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/lightsaber.png" width="20px"></h1> 
-</div>
+![Header Image](https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/newheader.png)
 
 <p class="socials" align="center">
     <a href="https://www.linkedin.com/in/catherine-osadciw-a65517128/">
-        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/linkedin.png" width="30px">
+        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/linkedin.png" width="30px" padding="5px">
     </a>
     <a href="https://twitter.com/cathosadciw">
-        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/twitter.png" width="30px">
+        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/twitter.png" width="30px" padding="5px">
     </a>
     <a href="mailto:CatherineOsadciw@github.com">
-        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/gmail.png" width="30px">
+        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/gmail.png" width="30px" padding="5px">
     </a>
 </p>
 
