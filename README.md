@@ -2,17 +2,17 @@
 
 <p class="socials" align="center">
     <a href="https://www.linkedin.com/in/catherine-osadciw-a65517128/">
-        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/linkedin.png" width="30px" padding="5px">
+        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/linkedin-box-fill.png" width="30px" padding="10px">
     </a>
     <a href="https://twitter.com/cathosadciw">
-        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/twitter.png" width="30px" padding="5px">
+        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/twitter-fill.png" width="30px" padding="10px">
     </a>
     <a href="mailto:CatherineOsadciw@github.com">
-        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/gmail.png" width="30px" padding="5px">
+        <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/mail-fill.png" width="30px" padding="10px">
     </a>
 </p>
 
-I'm Catherine!  I am currently an Azure DevOps software engineer at  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/github.png" width="20px">.  I usually call myself a backend developer, but I have experience across the stack.
+I'm Catherine!  I am currently a software engineer at  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/github-fill.png" width="20px"> working on the Azure DevOps platform.  I usually call myself a backend developer, but I have experience across the stack.
 
 ##  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/baby-yoda.gif" width="20px"> Get to Know Me
 - Graduate of <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/rit.png" width="20px"> with a B.S. in Software Engineering
