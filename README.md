@@ -48,10 +48,11 @@ I'm Catherine!  I am currently a software engineer at  <img src="https://github.
 ## <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/party_chewbacca.gif" width="20px"> Currently Coding To...
 [![Spotify](https://spotify-nu.vercel.app/api/spotify)](https://open.spotify.com/user/dex5b3m3iwj04wtr8zsfzhatl)
 
-##  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/porg.png" width="20px"> GitHub Stats
+##  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/porg.png" width="20px"> GitHub Stats and Activity
 
 [![CatherineOsadciw's github stats](https://github-readme-stats.vercel.app/api?username=CatherineOsadciw&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/CatherineOsadciw/github-readme-stats)
 
+<!--START_SECTION:activity-->
 
 <!--
 **CatherineOsadciw/CatherineOsadciw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
