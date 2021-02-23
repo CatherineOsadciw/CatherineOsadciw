@@ -55,11 +55,11 @@ I'm Catherine!  I am currently a software engineer at  <img src="https://github.
 [![CatherineOsadciw's github stats](https://github-readme-stats.vercel.app/api?username=CatherineOsadciw&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/CatherineOsadciw/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/microsoft/azure-devops-auth-samples/pull/65) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
-2. 💪 Opened PR [#65](https://github.com/microsoft/azure-devops-auth-samples/pull/65) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
-3. 🎉 Merged PR [#63](https://github.com/microsoft/azure-devops-auth-samples/pull/63) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
-4. 🗣 Commented on [#63](https://github.com/microsoft/azure-devops-auth-samples/issues/63) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
-5. 💪 Opened PR [#63](https://github.com/microsoft/azure-devops-auth-samples/pull/63) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
+1. 🗣 Commented on [#66](https://github.com/microsoft/azure-devops-auth-samples/issues/66) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
+2. 🎉 Merged PR [#65](https://github.com/microsoft/azure-devops-auth-samples/pull/65) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
+3. 💪 Opened PR [#65](https://github.com/microsoft/azure-devops-auth-samples/pull/65) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
+4. 🎉 Merged PR [#63](https://github.com/microsoft/azure-devops-auth-samples/pull/63) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
+5. 🗣 Commented on [#63](https://github.com/microsoft/azure-devops-auth-samples/issues/63) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
 <!--END_SECTION:activity-->
 
 <!--
