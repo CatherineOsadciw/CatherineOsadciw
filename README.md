@@ -15,7 +15,7 @@
     </a>
 </p>
 
-I'm Catherine!  I am currently a software engineer at  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/github-fill.png" width="20px"> working on the checks API.  I usually call myself a backend developer, but I have experience across the stack.
+I'm Catherine!  I am currently a software engineer at  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/github-fill.png" width="20px"> working on the checks API.  I've also worked on the Azure DevOps platform.  I usually call myself a backend developer, but I have experience across the stack.
 
 ##  <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/lightsaber.png" width="20px"> Get to Know Me
 - Graduate of <img src="https://github.com/CatherineOsadciw/CatherineOsadciw/blob/master/assets/rit-new.png" width="20px"> with a B.S. in Software Engineering
