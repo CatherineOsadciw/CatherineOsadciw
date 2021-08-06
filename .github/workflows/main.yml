@@ -9,10 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     name: Update README with my most recent GitHub activity in public repos
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Recent GitHub Activity - Profile Readme
+      - uses: Readme-Workflows/recent-activity@v2.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Updating recent public GitHub activity'
           MAX_LINES: 5
+          DISABLED_EVENTS: ''
