@@ -55,9 +55,3 @@ I'm Catherine!  I am currently a software engineer at  <img src="https://github.
 [![CatherineOsadciw's github stats](https://github-readme-stats.vercel.app/api?username=CatherineOsadciw&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/CatherineOsadciw/github-readme-stats)
 
 <!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 6th, 2021, 3:46:32 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<!--RECENT_ACTIVITY:end-->
