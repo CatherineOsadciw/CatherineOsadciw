@@ -54,13 +54,9 @@ I'm Catherine!  I am currently a software engineer at  <img src="https://github.
 
 [![CatherineOsadciw's github stats](https://github-readme-stats.vercel.app/api?username=CatherineOsadciw&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/CatherineOsadciw/github-readme-stats)
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/CatherineOsadciw/github-actions-continuous-delivery-azure/pull/4) in [CatherineOsadciw/github-actions-continuous-delivery-azure](https://github.com/CatherineOsadciw/github-actions-continuous-delivery-azure)
-2. 🎉 Merged PR [#3](https://github.com/CatherineOsadciw/github-actions-continuous-delivery-azure/pull/3) in [CatherineOsadciw/github-actions-continuous-delivery-azure](https://github.com/CatherineOsadciw/github-actions-continuous-delivery-azure)
-3. 🎉 Merged PR [#1](https://github.com/CatherineOsadciw/github-actions-continuous-delivery-azure/pull/1) in [CatherineOsadciw/github-actions-continuous-delivery-azure](https://github.com/CatherineOsadciw/github-actions-continuous-delivery-azure)
-4. 🎉 Merged PR [#67](https://github.com/microsoft/azure-devops-auth-samples/pull/67) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
-5. 💪 Opened PR [#67](https://github.com/microsoft/azure-devops-auth-samples/pull/67) in [microsoft/azure-devops-auth-samples](https://github.com/microsoft/azure-devops-auth-samples)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 **CatherineOsadciw/CatherineOsadciw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
