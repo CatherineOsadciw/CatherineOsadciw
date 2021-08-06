@@ -1,0 +1,4 @@
+settings:
+  commit_msg: 'Updating recent public GitHub activity'
+  max_lines: 5
+  disabled_events: []
