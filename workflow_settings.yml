@@ -1,3 +1,6 @@
 settings:
+  username: "CatherineOsadciw"
+  readme_file: ./README.md
   commit_msg: 'Updating recent public GitHub activity'
   max_lines: 5
+  disabled_events: []
