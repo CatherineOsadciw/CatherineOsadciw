@@ -55,8 +55,8 @@ I'm Catherine!  I am currently a software engineer at  <img src="https://github.
 [![CatherineOsadciw's github stats](https://github-readme-stats.vercel.app/api?username=CatherineOsadciw&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/CatherineOsadciw/github-readme-stats)
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/CatherineOsadciw/CatherineOsadciw/pull/1) in [CatherineOsadciw/CatherineOsadciw](https://github.com/CatherineOsadciw/CatherineOsadciw)
-2. 💪 Opened PR [#1](https://github.com/CatherineOsadciw/CatherineOsadciw/pull/1) in [CatherineOsadciw/CatherineOsadciw](https://github.com/CatherineOsadciw/CatherineOsadciw)
-3. ❗️ Opened issue [#92](https://github.com/Readme-Workflows/recent-activity/issues/92) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ✔️ Closed issue [#92](https://github.com/Readme-Workflows/recent-activity/issues/92) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. 🎉 Merged PR [#1](https://github.com/CatherineOsadciw/CatherineOsadciw/pull/1) in [CatherineOsadciw/CatherineOsadciw](https://github.com/CatherineOsadciw/CatherineOsadciw)
+3. 💪 Opened PR [#1](https://github.com/CatherineOsadciw/CatherineOsadciw/pull/1) in [CatherineOsadciw/CatherineOsadciw](https://github.com/CatherineOsadciw/CatherineOsadciw)
 
 <!--RECENT_ACTIVITY:end-->
